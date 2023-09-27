@@ -19,6 +19,9 @@ From Docker & Kubernetes: The Practical Guide
 | `-p`  |   | 
 |  `-t NAME:TAG` | Assign a NAME and a TAG to an image  | 
 
+`host.docker.internal` as address   
+`docker container inspect`   
+
 To quit: create a `new terminal`, run `docker ps`, grab <containerName>, and run `docker stop <containerName>`
 
 ----
